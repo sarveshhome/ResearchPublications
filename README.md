@@ -24,4 +24,6 @@ The work is carried on the application of differential equation (DE) and its com
 [See Publication](http://www.irjmst.com/Artical_details?id=922)
 
 
+--------------------
 
+[other link](https://www.slideshare.net/sarveshphd)
